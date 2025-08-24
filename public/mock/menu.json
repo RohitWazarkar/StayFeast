@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Paneer Butter Masala",
+    "taste": "Spicy",
+    "mrp": 250,
+    "image": ".\\images\\homeimages\\pbm.jpg",
+    "available": true,
+    "estimatedTime": "20 mins"
+  },
+  {
+    "id": 2,
+    "title": "Veg Biryani",
+    "taste": "Medium",
+    "mrp": 350,
+    "image": ".\\images\\homeimages\\vb.jpg",
+    "available": true,
+    "estimatedTime": "30 mins"
+  },
+  {
+    "id": 3,
+    "title": "Veg Noodles",
+    "taste": "Mild",
+    "mrp": 180,
+    "image": ".\\images\\homeimages\\vn.jpg" , 
+    "available": false,
+    "estimatedTime": "15 mins"
+  },  {
+    "id": 4,
+    "title": "khichadi",
+    "taste": "Spicy",
+    "mrp": 250,
+    "image": ".\\images\\homeimages\\kh.jpg",
+    "available": true,
+    "estimatedTime": "20 mins"
+  },
+  {
+    "id": 5,
+    "title": "Puran Poli",
+    "taste": "Sweet",
+    "mrp": 350,
+    "image": ".\\images\\homeimages\\pp.webp",
+    "available": true,
+    "estimatedTime": "30 mins"
+  },
+  {
+    "id": 6,
+    "title": "Rajma Chawal",
+    "taste": "Mild",
+    "mrp": 180,
+    "image": ".\\images\\homeimages\\rc.webp" , 
+    "available": false,
+    "estimatedTime": "15 mins"
+  },  {
+    "id": 7,
+    "title": "Shahi Paneer",
+    "taste": "Spicy",
+    "mrp": 250,
+    "image": ".\\images\\homeimages\\sp.webp",
+    "available": true,
+    "estimatedTime": "20 mins"
+  },
+  {
+    "id": 8,
+    "title": "Mutton Biryani",
+    "taste": "Medium",
+    "mrp": 350,
+    "image": ".\\images\\homeimages\\mb.webp",
+    "available": true,
+    "estimatedTime": "30 mins"
+  },
+  {
+    "id": 9,
+    "title": "Kheer",
+    "taste": "Sweet",
+    "mrp": 180,
+    "image": ".\\images\\homeimages\\kheer.jpg" , 
+    "available": false,
+    "estimatedTime": "15 mins"
+  },  {
+    "id": 10,
+    "title": "Dal Tadka",
+    "taste": "Spicy",
+    "mrp": 250,
+    "image": ".\\images\\homeimages\\dt.webp",
+    "available": true,
+    "estimatedTime": "20 mins"
+  },
+  {
+    "id": 11 , 
+    "title": "Masala Papad",
+    "taste": "Medium",
+    "mrp": 350,
+    "image": ".\\images\\homeimages\\mp.webp",
+    "available": true,
+    "estimatedTime": "30 mins"
+  },
+  {
+    "id": 12,
+    "title": "Shengule",
+    "taste": "Mild",
+    "mrp": 180,
+    "image": ".\\images\\homeimages\\shengule.jpg" , 
+    "available": false,
+    "estimatedTime": "15 mins"
+  },  {
+    "id": 13,
+    "title": "Dosa",
+    "taste": "Spicy",
+    "mrp": 250,
+    "image": ".\\images\\homeimages\\dosa.jpg",
+    "available": true,
+    "estimatedTime": "20 mins"
+  },
+  {
+    "id": 14,
+    "title": "Rawa Idly",
+    "taste": "Medium",
+    "mrp": 350,
+    "image": ".\\images\\homeimages\\ri.jpg",
+    "available": true,
+    "estimatedTime": "30 mins"
+  },
+  {
+    "id": 15,
+    "title": "Sooji",
+    "taste": "Mild",
+    "mrp": 180,
+    "image": ".\\images\\homeimages\\suji.webp" , 
+    "available": false,
+    "estimatedTime": "15 mins"
+  }
+
+]
