@@ -7,9 +7,14 @@ export default function Navbar() {
     <nav className="bg-gradient-to-r from-blue-600 to-blue-500 text-white px-8 py-4 shadow-lg">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         {/* Logo / Brand */}
+      
+
         <h1 className="text-2xl font-extrabold tracking-wide">
-          Stay<span className="text-yellow-300">Feast</span>
+          <Link href="./" className="hover:text-yellow-400 transition">
+            Stay<span className="text-yellow-300">Feast</span>
+          </Link>
         </h1>
+
 
         {/* Navigation Links */}
         <div className="hidden md:flex space-x-6 text-lg font-medium">
