@@ -85,9 +85,11 @@ export default function HomePage() {
             Experience world-class comfort with our seamlessly managed rooms,
             designed for business and leisure.
           </p>
-          <button className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-700 transition">
-            Explore Rooms
-          </button>
+        <Link href="/rooms">
+  <button className="bg-blue-600 text-white px-6 py-3 rounded-lg shadow hover:bg-blue-700 transition">
+    Explore Rooms
+  </button>
+</Link>
         </div>
       </section>
 
