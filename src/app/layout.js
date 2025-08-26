@@ -2,8 +2,8 @@ import "./globals.css";
 import Layout from "../components/Layout";
 
 export const metadata = {
-  title: "Khatabook App",
-  description: "Simple accounting app built with Next.js",
+  title: "StayFeast App",
+  description: "Hotel Management app Dev. with Next.js",
 };
 
 export default function RootLayout({ children }) {
