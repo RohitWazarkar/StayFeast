@@ -39,7 +39,7 @@ export default function Contact() {
                 📞 <span className="font-medium">Mobile:</span> +91 98765 43210
               </p>
               <p className="text-gray-700">
-                💼 <span className="font-medium">Experience:</span> 5 years at KFintech as .NET & React Developer
+                💼 <span className="font-medium">Experience:</span> 1.9 years at KFintech as .NET & React Developer
               </p>
               <p className="text-gray-700">
                 🚀 <span className="font-medium">Current Focus:</span> Full-stack development with Next.js
